@@ -13,7 +13,7 @@ I love :coffee: :pizza: and :dancer:
   {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    {{ post.excerpt }}
+    {{ post.excerpt | remove: "<p>" | remove: "</p>" }}
   </li>
   {% endfor %}
 </ul>
