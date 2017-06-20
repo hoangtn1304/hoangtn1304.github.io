@@ -1,6 +1,6 @@
 ---
 title: Home Page
-layout: default
+layout: home
 ---
 
 # Hello World
