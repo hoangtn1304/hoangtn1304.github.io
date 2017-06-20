@@ -1,3 +1,7 @@
-title: Hoang Tran
+# Site settings
+title: Night Wolf Blog
 description: Random thoughts of a happy software engineer
-theme: krad
+keywords: Wolf, Software Engineer, Hoang Tran
+author: Hoang Tran
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://hoangtn1304.github.io" # the base hostname & protocol for your site
