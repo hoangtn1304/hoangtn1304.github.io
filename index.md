@@ -1,3 +1,8 @@
+---
+title: Home Page
+layout: home
+---
+
 # Hello World
 
 My personal blog on Github
