@@ -1,6 +1,6 @@
 ---
 title: Home Page
-layout: compress
+layout: default
 ---
 
 # Hello World
