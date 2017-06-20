@@ -1,6 +1,8 @@
 ---
 layout: default
 title:  "My first blog post"
+title: My first blog post
+description: Just hello world blog post, nothing special...
 date:   2017-06-20 15:50:01 -0600
 categories: personal
 ---
