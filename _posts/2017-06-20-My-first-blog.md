@@ -5,6 +5,4 @@ date:   2017-06-20 15:50:01 -0600
 categories: personal
 ---
 
-# My first blog post
-
-Nothing here yet !
+Nothing here yet ! Lorem ipsum blah blah ... :smile:
