@@ -9,7 +9,7 @@ categories: personal
 
 Nothing here yet ! Lorem ipsum blah blah ... :smile:
 
-{% highlight ruby %}
+{% highlight ruby linenos %}
 def show
   @widget = Widget(params[:id])
   respond_to do |format|
