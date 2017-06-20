@@ -5,4 +5,4 @@ keywords: Wolf, Software Engineer, Hoang Tran
 author: Hoang Tran
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://hoangtn1304.github.io" # the base hostname & protocol for your site
-theme: minima
+theme: jekyll-theme-ricky
